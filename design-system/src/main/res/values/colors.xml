@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@color/spanish_green</color>
+    <color name="main">@color/white</color>
+    <color name="divider">@color/platinum</color>
+
+    <color name="primary_text">@color/jet</color>
+    <color name="secondary_text">@color/dark_silver</color>
+    <color name="error_text">@color/rust</color>
+    <color name="accent_text">@color/spanish_green</color>
+</resources>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Regular -->
+    <style name="Regular12spPrimary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Regular14spPrimary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Regular16spPrimary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Regular25spPrimary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Regular12spSecondary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Regular14spSecondary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Regular16spSecondary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Regular25spSecondary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Regular12spAccent">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Regular14spAccent">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Regular16spAccent">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Regular25spAccent">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Regular12spError">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Regular14spError">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Regular16spError">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Regular25spError">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <!-- Semi Bold -->
+    <style name="SemiBold12spPrimary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SemiBold14spPrimary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SemiBold16spPrimary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SemiBold25spPrimary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SemiBold12spSecondary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="SemiBold14spSecondary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="SemiBold16spSecondary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="SemiBold25spSecondary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="SemiBold12spAccent">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="SemiBold14spAccent">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="SemiBold16spAccent">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="SemiBold25spAccent">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="SemiBold12spError">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="SemiBold16spError">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="SemiBold25spError">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_semibold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+
+    <!-- Bold -->
+    <style name="Bold12spPrimary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Bold14spPrimary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Bold16spPrimary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Bold25spPrimary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Bold12spSecondary">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Bold14spSecondary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+
+    <style name="Bold16spSecondary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Bold25spSecondary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="Bold12spAccent">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Bold14spAccent">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Bold16spAccent">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Bold25spAccent">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/accent_text</item>
+    </style>
+
+    <style name="Bold12spError">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Bold14spError">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Bold16spError">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+    <style name="Bold25spError">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textColor">@color/error_text</item>
+    </style>
+
+
+    <!-- Header -->
+    <style name="Header14spPrimary">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Header16spPrimary">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="Header25spPrimary">
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <!-- NewStyle Migration -->
+
+    <!-- Hero -->
+    <style name="HeadHeroBold">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">30sp</item>
+    </style>
+
+    <style name="HeadHeroBoldItalic">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">30sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="HeadHeroRegular">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">30sp</item>
+    </style>
+
+    <!-- Large -->
+    <style name="BodyLargeBold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+    </style>
+
+    <style name="BodyLargeBoldItalic">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="HeadLargeBold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+    </style>
+
+    <style name="HeadLargeBoldItalic">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyLargeItalic">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyLargeRegular">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+    </style>
+
+    <style name="HeadLargeRegular">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">24sp</item>
+    </style>
+
+    <!-- Medium -->
+    <style name="BodyMediumBold">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+    </style>
+
+    <style name="BodyMediumBoldItalic">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="HeadMediumBold">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+    </style>
+
+    <style name="HeadMediumBoldItalic">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyMediumItalic">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyMediumRegular">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+    </style>
+
+    <style name="HeadMediumRegular">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">21sp</item>
+    </style>
+
+    <!-- Small -->
+    <style name="BodySmallBold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+    </style>
+
+    <style name="BodySmallBoldItalic">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="HeadSmallBold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+    </style>
+
+    <style name="HeadSmallBoldItalic">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodySmallItalic">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodySmallRegular">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+    </style>
+
+    <style name="HeadSmallRegular">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">18sp</item>
+    </style>
+
+    <!-- Tiny -->
+    <style name="BodyTinyBold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+    </style>
+
+    <style name="BodyTinyBoldItalic">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="HeadTinyBold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+    </style>
+
+    <style name="HeadTinyBoldItalic">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyTinyItalic">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="BodyTinyRegular">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+    </style>
+
+    <style name="HeadTinyRegular">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:lineHeight" tools:ignore="NewApi">15sp</item>
+    </style>
+
+</resources>
